@@ -1,2 +1,2 @@
 # Pizza Order
-Order a pizza. Add toppings. Get your total.
+Order any size pizza. Add toppings. Get your total.
